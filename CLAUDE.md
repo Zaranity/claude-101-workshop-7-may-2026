@@ -44,6 +44,7 @@ claude -p "what does this project do?"
 |-------|---------|-------------|
 | grill-me | `/grill-me` | Stress-test your plan or design through relentless interviewing |
 | qa | `/qa` | Interactive QA session — report bugs conversationally, auto-files GitHub issues |
+| summarize | `/summarize` | Summarize any topic or content in exactly 3 concise bullet points |
 | tdd | `/tdd` | Test-driven development with red-green-refactor loop |
 | to-prd | `/to-prd` | Turn current conversation into a PRD and submit as a GitHub issue |
 
